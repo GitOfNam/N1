@@ -1,0 +1,23 @@
+C:\Users\Admin\Desktop\WebApplication\WG.Model\bin\Debug\net5.0\WG.Model.deps.json
+C:\Users\Admin\Desktop\WebApplication\WG.Model\bin\Debug\net5.0\WG.Model.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Model\bin\Debug\net5.0\ref\WG.Model.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Model\bin\Debug\net5.0\WG.Model.pdb
+C:\Users\Admin\Desktop\WebApplication\WG.Model\obj\Debug\net5.0\WG.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\WebApplication\WG.Model\obj\Debug\net5.0\WG.Model.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WebApplication\WG.Model\obj\Debug\net5.0\WG.Model.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WebApplication\WG.Model\obj\Debug\net5.0\WG.Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WebApplication\WG.Model\obj\Debug\net5.0\WG.Model.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Model\obj\Debug\net5.0\ref\WG.Model.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Model\obj\Debug\net5.0\WG.Model.pdb
+E:\New Project\WebApplication\WG.Model\bin\Debug\net5.0\WG.Model.deps.json
+E:\New Project\WebApplication\WG.Model\bin\Debug\net5.0\WG.Model.dll
+E:\New Project\WebApplication\WG.Model\bin\Debug\net5.0\ref\WG.Model.dll
+E:\New Project\WebApplication\WG.Model\bin\Debug\net5.0\WG.Model.pdb
+E:\New Project\WebApplication\WG.Model\obj\Debug\net5.0\WG.Model.csprojAssemblyReference.cache
+E:\New Project\WebApplication\WG.Model\obj\Debug\net5.0\WG.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Project\WebApplication\WG.Model\obj\Debug\net5.0\WG.Model.AssemblyInfoInputs.cache
+E:\New Project\WebApplication\WG.Model\obj\Debug\net5.0\WG.Model.AssemblyInfo.cs
+E:\New Project\WebApplication\WG.Model\obj\Debug\net5.0\WG.Model.csproj.CoreCompileInputs.cache
+E:\New Project\WebApplication\WG.Model\obj\Debug\net5.0\WG.Model.dll
+E:\New Project\WebApplication\WG.Model\obj\Debug\net5.0\ref\WG.Model.dll
+E:\New Project\WebApplication\WG.Model\obj\Debug\net5.0\WG.Model.pdb

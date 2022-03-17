@@ -1,0 +1,30 @@
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\bin\Debug\net5.0\WG.Repository.Interfaces.deps.json
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\bin\Debug\net5.0\WG.Repository.Interfaces.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\bin\Debug\net5.0\ref\WG.Repository.Interfaces.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\bin\Debug\net5.0\WG.Repository.Interfaces.pdb
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\bin\Debug\net5.0\WG.Model.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\bin\Debug\net5.0\WG.Model.pdb
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.csproj.CopyComplete
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\ref\WG.Repository.Interfaces.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.pdb
+E:\New Project\WebApplication\WG.Repository.Interfaces\bin\Debug\net5.0\WG.Repository.Interfaces.deps.json
+E:\New Project\WebApplication\WG.Repository.Interfaces\bin\Debug\net5.0\WG.Repository.Interfaces.dll
+E:\New Project\WebApplication\WG.Repository.Interfaces\bin\Debug\net5.0\ref\WG.Repository.Interfaces.dll
+E:\New Project\WebApplication\WG.Repository.Interfaces\bin\Debug\net5.0\WG.Repository.Interfaces.pdb
+E:\New Project\WebApplication\WG.Repository.Interfaces\bin\Debug\net5.0\WG.Model.dll
+E:\New Project\WebApplication\WG.Repository.Interfaces\bin\Debug\net5.0\WG.Model.pdb
+E:\New Project\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.csprojAssemblyReference.cache
+E:\New Project\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Project\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.AssemblyInfoInputs.cache
+E:\New Project\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.AssemblyInfo.cs
+E:\New Project\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.csproj.CoreCompileInputs.cache
+E:\New Project\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.csproj.CopyComplete
+E:\New Project\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.dll
+E:\New Project\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\ref\WG.Repository.Interfaces.dll
+E:\New Project\WebApplication\WG.Repository.Interfaces\obj\Debug\net5.0\WG.Repository.Interfaces.pdb

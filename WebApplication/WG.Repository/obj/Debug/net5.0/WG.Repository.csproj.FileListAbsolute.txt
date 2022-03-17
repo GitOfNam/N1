@@ -1,0 +1,34 @@
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\bin\Debug\net5.0\WG.Repository.deps.json
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\bin\Debug\net5.0\WG.Repository.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\bin\Debug\net5.0\ref\WG.Repository.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\bin\Debug\net5.0\WG.Repository.pdb
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\bin\Debug\net5.0\WG.Model.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\bin\Debug\net5.0\WG.Repository.Interfaces.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\bin\Debug\net5.0\WG.Model.pdb
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\bin\Debug\net5.0\WG.Repository.Interfaces.pdb
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.csproj.CopyComplete
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\obj\Debug\net5.0\ref\WG.Repository.dll
+C:\Users\Admin\Desktop\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.pdb
+E:\New Project\WebApplication\WG.Repository\bin\Debug\net5.0\WG.Repository.deps.json
+E:\New Project\WebApplication\WG.Repository\bin\Debug\net5.0\WG.Repository.dll
+E:\New Project\WebApplication\WG.Repository\bin\Debug\net5.0\ref\WG.Repository.dll
+E:\New Project\WebApplication\WG.Repository\bin\Debug\net5.0\WG.Repository.pdb
+E:\New Project\WebApplication\WG.Repository\bin\Debug\net5.0\WG.Model.dll
+E:\New Project\WebApplication\WG.Repository\bin\Debug\net5.0\WG.Repository.Interfaces.dll
+E:\New Project\WebApplication\WG.Repository\bin\Debug\net5.0\WG.Model.pdb
+E:\New Project\WebApplication\WG.Repository\bin\Debug\net5.0\WG.Repository.Interfaces.pdb
+E:\New Project\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.csprojAssemblyReference.cache
+E:\New Project\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Project\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.AssemblyInfoInputs.cache
+E:\New Project\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.AssemblyInfo.cs
+E:\New Project\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.csproj.CoreCompileInputs.cache
+E:\New Project\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.csproj.CopyComplete
+E:\New Project\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.dll
+E:\New Project\WebApplication\WG.Repository\obj\Debug\net5.0\ref\WG.Repository.dll
+E:\New Project\WebApplication\WG.Repository\obj\Debug\net5.0\WG.Repository.pdb
